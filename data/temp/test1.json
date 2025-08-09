@@ -1,1 +1,47 @@
-
+{
+  "title": "Bài kiểm tra 1",
+  "description": "Chỉ số acid, chỉ số xà phòng hoá",
+  "timeLimit": null,
+  "parts": {
+	"part1": [
+	  {
+		"question": "Câu 1: Đáp án A",
+		"options": ["A. A", "B. B", "C. C", "D. D"],
+		"answer": 0
+	  },
+	  {
+		"question": "Câu 2:  Đáp án B",
+		"options": ["A. A", "B. B", "C. C", "D. D"],
+		"answer": 1
+	  }
+	],
+	"part2": [
+	  {
+		"question": "Câu 1: Chọn đúng/sai cho các ý sau:",
+		"statements": [
+		  "a. Chọn đúng",
+		  "b. Chọn sai",
+		  "c. Chọn sai",
+		  "d. Chọn đúng"
+		],
+		"answers": [true, false, false, true]
+	  },
+	  {
+		"question": "Câu 2: Chọn đúng/sai cho các ý sau:",
+		"statements": [
+		  "a. Chọn đúng",
+		  "b. Chọn sai",
+		  "c. Chọn sai",
+		  "d. Chọn đúng"
+		],
+		"answers": [true, false, false, true]
+	  }
+	],
+	"part3": [
+	  {
+		"question": "Câu 1: Điền 3008",
+		"answer": "3008"
+	  }
+	]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Bài kiểm tra 2",
+  "description": "Kiểm tra kiến thức về hợp chất hữu cơ, phản ứng hóa học.",
+  "timeLimit": 1,
+  "parts": {
+	"part1": [
+	  {
+		"question": "Hợp chất hữu cơ X có công thức phân tử C₃H₁₂O₃N₂ khi tác dụng với dung dịch NaOH đun nóng thu được hai khí làm xanh quỳ tím ẩm. X có bao nhiêu công thức cấu tạo thỏa mãn?",
+		"options": ["A. 2", "B. 3", "C. 4", "D. 1"],
+		"answer": 0
+	  }
+	],
+	"part2": [
+	  {
+		"question": "Chọn đúng/sai cho các ý sau:",
+		"statements": [
+		  "Ý a: Khí NH3 làm quỳ tím chuyển xanh.",
+		  "Ý b: Khí CO2 làm quỳ tím chuyển đỏ.",
+		  "Ý c: Khí Cl2 làm quỳ tím chuyển xanh.",
+		  "Ý d: Khí HCl làm quỳ tím chuyển đỏ."
+		],
+		"answers": [true, true, false, true]
+	  }
+	],
+	"part3": [
+	]
+  }
+}
