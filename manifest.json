@@ -2,7 +2,7 @@
 	"name": "Hệ thống làm bài kiểm tra",
 	"short_name": "Kiểm tra",
 	"description": "Ứng dụng làm bài kiểm tra trực tuyến",
-	"start_url": "/",
+	"start_url": "/KiemTra/",
 	"display": "standalone",
 	"background_color": "#3498db",
 	"theme_color": "#1a5276",
