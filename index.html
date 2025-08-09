@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="theme-color" content="#1a5276">
+	<title>Hệ thống làm bài kiểm tra</title>
+	<link rel="stylesheet" href="main.css">
+	<link rel="manifest" href="manifest.json">
+</head>
+<body>
+	
+	<div id="modal" class="hidden">
+		<div class="pop-up">
+			<div class="pop-up-container"></div>
+			<div id="pop-up-btn">
+				<button class="btn" id="back-btn">Quay lại</button>
+				<button class="btn" id="confirm-btn">Nộp bài</button>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<header>
+			<h1 id="current-test-title">Hệ thống làm bài kiểm tra</h1>
+		</header>
+		
+		<!-- Màn hình chọn bài kiểm tra -->
+		<div id="test-selection">
+			<h2 style="text-align: center; padding: 20px; color: #2c3e50;">Chọn bài kiểm tra</h2>
+			<div class="test-list">
+				<!--- in JavaScript -->
+			</div>
+		</div>
+		
+		<!-- Màn hình làm bài kiểm tra -->
+		<div id="test-container" class="hidden">
+			<div class="result-header">
+				<div class="timer">⏱️ <span id="time-left"></span></div>
+				<div class="score">Điểm: <span id="score-display">0</span>/<span id="total-questions">0</span></div>
+			</div>
+			
+			<div class="test-info">
+				<div id="test-description"></div>
+			</div>
+			
+			<div class="test-content">
+				<!-- Phần 1: Câu hỏi trắc nghiệm -->
+				<div class="part" id="pI"></div>
+				<!-- Phần 2: Câu hỏi đúng/sai -->
+				<div class="part" id="pII"></div>
+				<!-- Phần 3: Câu hỏi điền đáp án -->
+				<div class="part" id="pIII"></div>
+			</div>
+			
+			<div class="controls">
+				<button class="btn" id="submit-btn">Nộp bài</button>
+			</div>
+		</div>
+	</div>
+	<script src="main.js"></script>
+</body>
+</html>
