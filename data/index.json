@@ -1,1 +1,20 @@
-
+[
+	{
+		"id": "temp/test1",
+		"name": "Bài kiểm tra mẫu 1",
+		"description": "Kiểm tra kiến thức về hợp chất hữu cơ, phản ứng hóa học.",
+		"timeLimit": 10
+	},
+	{
+		"id": "temp/test2",
+		"name": "Bài kiểm tra mẫu 2",
+		"description": "Kiểm tra kiến thức về hợp chất hữu cơ, phản ứng hóa học.",
+		"timeLimit": 1
+	},
+	{
+		"id": "chiSo_acid_chatBeo",
+		"name": "Bài kiểm tra 1",
+		"description": "Chỉ số acid, chỉ số xà phòng hoá",
+		"timeLimit": "inf"
+	}
+]

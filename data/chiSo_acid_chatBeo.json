@@ -1,0 +1,79 @@
+{
+	"title": "Bài kiểm tra 1",
+	"description": "Chỉ số acid, chỉ số xà phòng hoá",
+	"timeLimit": null,
+	"parts": {
+	"part1": [
+		{
+			"question": "Câu 1: Để trung hòa lượng acid béo tự do có trong 14g một mẩu chất béo cần 15mL dung dịch KOH 0,1M. Chỉ số acid của mẩu chất béo trên là:",
+			"options": ["A. 6,0", "B. 7,2", "C. 4,8", "D. 5,5"],
+			"answer": 0
+		},
+		{
+			"question": "Câu 2: Để tác dụng hết với 100g lipid có chỉ số acid bằng 7 phải dùng 17,92g KOH. Khối lượng muối thu được là:",
+			"options": ["A. 108,265 g", "B. 170 g", "C. 82,265 g", "D. 107,57 g"],
+			"answer": 0
+		},
+		{
+			"question": "Câu 3: Khi thủy phân a gam esterr X thu được 0,92g glycerol, 3,02g sodium linoleate C₁₇H₃₁COONa và m gam muối của sodium oleate C₁₇H₃₃COONa. Giá trị a, m lần lượt là:",
+			"options": ["A. 6,08 và 8,82", "B. 8,06 và 8,28", "C. 8,82 và 6,08", "D. 8,16 và 8,86"],
+			"answer": 2
+		},
+		{
+			"question": "Câu 4: Để xà phòng hóa hoàn toàn 2,52g một lipid cần dùng 90mL dung dịch NaOH 0,1M. Chỉ số xà phòng của lipid là:",
+			"options": ["A. 210", "B. 150", "C. 187", "D. 200"],
+			"answer": 3
+		},
+		{
+			"question": "Câu 5: Khi trung hòa 2,8g chất béo cần 3mL dung dịch KOH 0,1M. Tính chỉ số acid chủa chất béo đó.",
+			"options": ["A. 6", "B. 5", "C. 7", "D. 8"],
+			"answer": 0
+		},
+		{
+			"question": "Câu 6: Muốn trung hòa 5,6g một chất béo X đó cần 6mL dung dịch KOH 0,1M. Hãy tính chỉ số acid của chất béo X và tính lượng KOH cần trung hòa 4g chất béo có Y chỉ số acid bằng 7.",
+			"options": ["A. 5 và 14mg", "B. 4 và 26mg", "C. 3 và 56mg", "D. 6 và 28mg"],
+			"answer": 3
+		},
+		{
+			"question": "Câu 7: Chỉ số iodine của triolein có giá trị bằng bao nhiêu?",
+			"options": ["A. 26.0", "B. 86.2", "C. 82.3", "D. 102.0"],
+			"answer": 1
+		},
+		{
+			"question": "Câu 8: Số mg KOH trung hòa hết lượng acid tự do và xà phòng của chất béo. Tính chỉ số xà phòng hóa của mẫu chất béo có chỉ số acid bằng 7 chứa tristearin còn lẫn một lượng stearic acid.",
+			"options": ["A. 175", "B. 168", "C. 184", "D. 158"],
+			"answer": 0
+		},
+		{
+			"question": "Câu 9: Để xà phòng hóa 63mg chất béo trung tính cần 10,08mg NaOH. Xác định chỉ số xà phòng của chất béo đem dùng.",
+			"options": ["A. 112", "B. 124", "C. 224", "D. 214"],
+			"answer": 2
+		},
+		{
+			"question": "Câu 10: Đốt cháy hoàn toàn m gam hỗn hợp X gồm hai ester đồng phân cần dùng 13,72L khí O₂, thu được 11,76L khí CO₂ và 9,45g H₂O. Nếu cho m gam X tác dụng hết với 200mL dung dịch NaOH 1M, cô cạn dung dịch sau phản ứng thì thu được 13,95g chất rắn khan, trong đó có a mol muối Y và b mol muối Z (My < Mz). Các thể tích khí đều đo ở điều kiện tiêu chuẩn. Tỉ lệ a : b là",
+			"options": ["A. 2 : 3", "B. 4 : 3", "C. 3 : 2", "D. 3 : 5"],
+			"answer": 1
+		},
+		{
+			"question": "Câu 11: Xà phòng hóa hoàn toàn 17,24g chất béo vừa cần đủ 0,06 mol NaOH. Cô cạn dung dịch sau phản ứng thu được khối lượng xà phòng là bao nhiêu gam ",
+			"options": ["A. 17,80", "B. 18,24", "C. 16,68", "D. 18,38"],
+			"answer": 0
+		}
+	],
+	"part2": [],
+	"part3": [
+		{
+			"question": "Câu 1: Hãy tính khối lượng NaOH (theo mg) cần dùng để trung hòa acid tự do có trong 5g chất béo với chỉ số acid bằng 7.",
+			"answer": "25"
+		},
+		{
+			"question": "Câu 2: Để trung hòa hết lượng acid tự do có trong 5,6g chất béo người ta dùng hết 6mL dd KOH 0,1M. Chỉ số acid của chất béo là:",
+			"answer": "6"
+		},
+		{
+			"question": "Câu 3: Khi xà phòng hóa 2,52g chất béo A cần 90ml dung dịch KOH 0,1M. Mặt khác, xà phòng hóa hoàn toàn 5,04g chất béo A thu được 0,53g glycerol. Gọi chỉ số acid là a và chỉ số xà phòng hóa là b, tính a + b.",
+			"answer": "208"
+		}
+	]
+	}
+}
