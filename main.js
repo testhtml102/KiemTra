@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	// đăng ký Service Worker
 	if ('serviceWorker' in navigator) {
 		window.addEventListener('load', () => {
-			navigator.serviceWorker.register('service-worker.js')
+			navigator.serviceWorker.register('/KiemTra/service-worker.js')
 			.then(registration => {
 				console.log('ServiceWorker registered: ', registration);
 			})
